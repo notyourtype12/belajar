@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     EditText edtEmail, edtPassword;
-    Button btnSubmit;
+    Button btnSubmit, btnLogin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
